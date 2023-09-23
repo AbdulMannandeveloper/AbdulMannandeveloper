@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulMannandeveloper
-- 👀 I’m interested in Machine learning adn data science.
-- 🌱 I’m currently learning programming and Web development.
-- 📫 you can contact me throygh my E-mail "Mannanag13@gmail.com" as well as through my phone no. (+92) 326-7503588
+- 👀 I’m interested in Machine learning and data science.
+- 🌱 I’m currently learning programming and Data Analysis.
+- 📫 you can contact me through my E-mail "AbdulMannan.Official@outlook.com" as well as through my phone no. (+92) 326-7503588
 
 <!---
 AbdulMannandeveloper/AbdulMannandeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
